@@ -1,0 +1,4 @@
+<!--pages/item/item.wxml-->
+<view class='container'>
+  <text>pages/item/item.wxml</text>
+</view>

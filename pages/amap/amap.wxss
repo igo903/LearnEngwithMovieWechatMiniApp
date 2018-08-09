@@ -1,0 +1,13 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.section {
+  margin:20rpx;
+}
+
+.page_hd{display: flex;justify-content: center;}

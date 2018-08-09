@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/usercenter/login",
+    "pages/star/star",
+    "pages/amap/amap",
+    "pages/item/item"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微信学习",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/images/bars_icons_course_inactive_square@2x.png",
+        "selectedIconPath": "pages/images/bars_icons_course_light_square@2x.png"
+      },
+      {
+        "pagePath": "pages/star/star",
+        "text": "Star",
+        "iconPath": "pages/images/bars_icons_course_inactive_square@2x.png",
+        "selectedIconPath": "pages/images/bars_icons_course_light_square@2x.png"
+      },
+      {
+        "pagePath": "pages/amap/amap",
+        "text": "地图",
+        "iconPath": "pages/images/bars_icons_me_inactive_square@2x.png",
+        "selectedIconPath": "pages/images/bars_icons_me_light_square@2x.png"
+      },
+      {
+        "pagePath": "pages/usercenter/login",
+        "text": "我的",
+        "iconPath": "pages/images/bars_icons_me_inactive_square@2x.png",
+        "selectedIconPath": "pages/images/bars_icons_me_light_square@2x.png"
+      }
+    ]
+  }
+}

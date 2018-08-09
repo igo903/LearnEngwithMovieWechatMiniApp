@@ -1,0 +1,33 @@
+<!--index.wxml-->
+<view class="container default">
+  <view class='oneRow'>
+    <view class='avatar'></view>
+    <view class='sentence'>Starry Starty Night蒋星星</view>
+  </view>
+  
+  <view class='oneRow reverse'>
+    <view class='avatar'></view>
+    <view class='sentence_reverse'>揭秘前2%的人的进阶方法论</view>
+  </view>
+
+    <view class='oneRow'>
+    <view class='avatar'></view>
+    <view class='sentence'>Starry Starty Night蒋星星</view>
+  </view>
+  
+  <view class='oneRow reverse'>
+    <view class='avatar'></view>
+    <view class='sentence_reverse'>揭秘前2%的人的进阶方法论 硅谷来信第二季上新发布会揭秘前2%的人的进阶方法论 硅谷来信第二季上新发布会揭秘前2%的人的进阶方法论 硅谷来信第二季上新发布会</view>
+  </view>
+
+    <view class='oneRow'>
+    <view class='avatar'></view>
+    <view class='sentence'>Starry Starty Night蒋星星</view>
+  </view>
+  
+  <view class='oneRow reverse'>
+    <view class='avatar'></view>
+    <view class='sentence_reverse'>揭秘前2%的人的进阶方法论 硅谷来信第二季上新发布会 2017 11 27</view>
+  </view>
+  
+</view>
